@@ -1,0 +1,30 @@
+### macOS template
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+### JetBrains template
+.idea/
+
+### VS Code
+.vscode/
+
+### Claude Code
+.claude/
+
+### Environment and secrets
+.env
+.env.*
+
+### Logs
+*.log
+
+### Node
+node_modules/
+
+### OS files
+Thumbs.db
