@@ -10,6 +10,7 @@ _Please read the [contributing guidelines](contributing.md) before contributing.
 - [Developer Tools](#developer-tools)
 - [Tutorials & Deployment](#tutorials--deployment)
 - [Architecture & Benchmarks](#architecture--benchmarks)
+- [Talks & Vision](#talks--vision)
 - [Community & Resources](#community--resources)
 
 ## Official Resources
