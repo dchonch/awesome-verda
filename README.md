@@ -25,6 +25,7 @@ _Please read the [contributing guidelines](contributing.md) before contributing.
 - [Python SDK](https://github.com/verda-cloud/sdk-python) - Official Python library for the Verda API.
 - [Go SDK](https://github.com/verda-cloud/verdacloud-sdk-go) - Official Go SDK for managing infrastructure.
 - [Terraform Provider](https://github.com/verda-cloud/terraform-provider-verda) - Infrastructure as Code support for Verda.
+- [Verda CLI](https://github.com/verda-cloud/verda-cli) - Terminal tool for managing VMs, volumes, SSH keys, and startup scripts.
 
 ## Tutorials & Deployment
 
